@@ -34,7 +34,10 @@ Install required dependencies:
   pip install requests beautifulsoup4
 ```
 ## ▶️ How to Use:
-    python scanner.py
+Run:
+    
+    python web_vulnerablity_scanner.py
+  
   Then enter the target URL when prompted:
     
     Enter the target URL (e.g. http://example.com/page): http://testphp.vulnweb.com/listproducts.php?cat=1
